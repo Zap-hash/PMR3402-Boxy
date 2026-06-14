@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">boxy</string>
+    <string name="title_activity_register_user">RegisterUserActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_settings_screen">SettingsScreenActivity</string>
+    <string name="title_activity_register_package">RegisterPackageActivity</string>
+    <string name="title_activity_package_code">PackageCodeActivity</string>
+    <string name="title_activity_register_time">RegisterTimeActivity</string>
+    <string name="title_activity_package_detail">PackageDetailActivity</string>
+</resources>
